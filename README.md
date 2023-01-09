@@ -1,5 +1,5 @@
 # MovieTickets
-## Here is admin home page 
+## Here is home page as admin
 ![Home Page](https://zapodaj.net/images/5dc6bb2630b4b.png)
 
 ## Payment
