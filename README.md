@@ -1,11 +1,11 @@
 # MovieTickets
 ## Here is admin home page 
-![Home Page](https://raw.githubusercontent.com/JeffJotka/MovieTickets/v5/img/admin_home.png?token=GHSAT0AAAAAAB5E7FCXOWOCD2OESPGL4V7UY54HB7Q)
+![Home Page](https://zapodaj.net/images/5dc6bb2630b4b.png)
 
 ## Payment
-![Payment](https://raw.githubusercontent.com/JeffJotka/MovieTickets/v5/img/checkout.png?token=GHSAT0AAAAAAB5E7FCXATDNY6FHBOTLFNZ4Y54HCYQ)
+![Payment](https://zapodaj.net/images/b1f8ad8803585.png)
 
 ## Orders after payment
-![Orderspaid](https://raw.githubusercontent.com/JeffJotka/MovieTickets/v5/img/Orderspaid.png?token=GHSAT0AAAAAAB5E7FCXJWPRIMNJQHX7YMBCY54HDJA)
+![Orderspaid](https://zapodaj.net/images/138cecb630d8b.png)
 
 ### More screenshots how looks app in [img folder](https://github.com/JeffJotka/MovieTickets/tree/master/img)
