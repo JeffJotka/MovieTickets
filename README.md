@@ -8,4 +8,4 @@
 ## Orders after payment
 ![Orderspaid](https://zapodaj.net/images/138cecb630d8b.png)
 
-### More screenshots how looks app in [img folder](https://github.com/JeffJotka/MovieTickets/tree/master/img)
+### More screenshots how app looks in [img folder](https://github.com/JeffJotka/MovieTickets/tree/master/img)
