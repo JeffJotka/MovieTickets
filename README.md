@@ -2,9 +2,6 @@
 ## Here is home page as admin
 ![Home Page](https://zapodaj.net/images/5dc6bb2630b4b.png)
 
-## Movie details
-![Movie_Details](https://zapodaj.net/40e86f8eb65e0.png.html)
-
 ## Payment
 ![Payment](https://zapodaj.net/images/b1f8ad8803585.png)
 
